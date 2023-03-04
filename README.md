@@ -10,3 +10,4 @@
   - [Solution](https://github.com/ereshidov/leetcode-patterns/blob/master/easy/find-all-numbers-disapeared-in-array.js)
 4. [Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
  - [Solution](https://github.com/ereshidov/leetcode-patterns/blob/master/easy/climbing-stairs.js)
+5. [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
